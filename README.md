@@ -34,4 +34,8 @@ Interactive Plots → Designed for readability and engagement.
 🚀 Why This Project?
 I built this notebook to improve my data storytelling skills and learn how to get the most out of Seaborn’s advanced plotting features. If you’re learning data visualization, this is a great reference for how to turn a dataset into an insightful visual narrative.
 
+<img width="839" height="619" alt="Screenshot 2025-08-11 112829" src="https://github.com/user-attachments/assets/7e6e6de7-a43f-40ea-9ba9-893f4c7d373d" />
 
+
+
+<img width="1424" height="675" alt="Screenshot 2025-08-11 112850" src="https://github.com/user-attachments/assets/69d2d29f-fb9a-4e16-9f37-85905ec9a15c" />
