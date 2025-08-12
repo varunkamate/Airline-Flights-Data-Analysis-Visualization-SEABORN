@@ -16,7 +16,7 @@ How ticket prices vary as the departure date approaches.
 Trends in demand across different airlines.
 
 Patterns based on days left, seasonality, and other features.
-
+  
 Clear and colorful bar plots, scatter plots, and facet grids to highlight the story in the data.
 
 🛠 Features in This Project
